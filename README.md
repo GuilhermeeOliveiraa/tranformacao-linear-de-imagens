@@ -1,2 +1,2 @@
 # Transformação linear aplicada matrizes de imagens 
-Projeto criado com os conhecimentos adquiritos na disciplina de Álgebra Linear Aplicada.
+Projeto desenvolvido com os conhecimentos adquiridos na disciplina de Álgebra Linear Aplicada, no qual se explorou a aplicação de transformações lineares em imagens digitais. O projeto consiste em representar imagens como matrizes de pixels e aplicar operações lineares, como translações, rotações, escalonamentos e combinações lineares, para manipular e modificar visualmente as imagens. Essa abordagem permitiu compreender de forma prática como conceitos teóricos de álgebra linear, como multiplicação de matrizes e transformações de vetores, podem ser utilizados em processamento de imagens.
